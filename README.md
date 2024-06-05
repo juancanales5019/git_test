@@ -1,2 +1,3 @@
 # git_test
 ODIN PROJECT FIRST GIT ASIGNMENT
+1st mod
